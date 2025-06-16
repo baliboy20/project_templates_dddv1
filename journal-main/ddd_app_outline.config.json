@@ -1,8 +1,0 @@
-{
-  "screens": [
-    {"screenName": "home"},
-    {"screenName": "signIn"},
-    {"screenName": "contact"},
-    {"screenName": "about"}
-  ]
-}
