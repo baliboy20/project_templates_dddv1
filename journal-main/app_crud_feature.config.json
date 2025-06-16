@@ -1,0 +1,6 @@
+{
+"featurename": "DevJournal",
+  "screenName" : "DevJournalBlog",
+  "bloc": "DevJournal",
+  "model": "JournalItem"
+}

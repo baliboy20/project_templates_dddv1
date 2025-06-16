@@ -1,0 +1,1 @@
+enum EditOrNew {Edit, New}
