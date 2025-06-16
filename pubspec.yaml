@@ -15,11 +15,11 @@ dependencies:
 
 
   flutter_formz:
-    path: ../../Libraries/flutter_formz
+    path: ../../../Libraries/flutter_formz
   parse_utils:
-     path: ../../Libraries/parse_utils
+     path: ../../../Libraries/parse_utils
   ddd_framework_assets:
-      path: ../../Libraries/ddd_framework_assets
+      path: ../../../Libraries/ddd_framework_assets
 
   image_picker: ^1.1.2
   intl: any

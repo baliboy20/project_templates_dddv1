@@ -228,7 +228,7 @@ packages:
   ddd_framework_assets:
     dependency: "direct main"
     description:
-      path: "../../Libraries/ddd_framework_assets"
+      path: "../../../Libraries/ddd_framework_assets"
       relative: true
     source: path
     version: "0.0.1"
@@ -344,7 +344,7 @@ packages:
   flutter_formz:
     dependency: "direct main"
     description:
-      path: "../../Libraries/flutter_formz"
+      path: "../../../Libraries/flutter_formz"
       relative: true
     source: path
     version: "0.0.1"
@@ -705,7 +705,7 @@ packages:
   parse_utils:
     dependency: "direct main"
     description:
-      path: "../../Libraries/parse_utils"
+      path: "../../../Libraries/parse_utils"
       relative: true
     source: path
     version: "0.0.5"
