@@ -34,6 +34,7 @@ dependencies:
   mongo_dart: any
   mime_dart: any
   bson: any
+  hive_ce: any
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -44,6 +45,8 @@ dev_dependencies:
     sdk: flutter
 
   flutter_lints: any
+  build_runner: any
+  hive_ce_generator: any
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
@@ -55,6 +58,14 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+
+  assets:
+    - images/picnic.jpeg
+    - images/picnic2.jpeg
+    - images/picnic1.jpg
+    - images/boy-on-quiz.webp
+    - images/boy-on-journal.webp
+    - images/background1.webp
 
   # To add assets to your application, add an assets section, like this:
   # assets:

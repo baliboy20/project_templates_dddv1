@@ -1,5 +1,5 @@
 
-Technology stack / libraries
+### Technology stack / libraries
 Dio
 BloC
 Provider
@@ -8,11 +8,17 @@ Flutter/Dart
 bson
 rxdart
 intl
-image_picker
+image_picker!
+hive_ce
 
-Dev Stack
+### Dev Stack
 git
+
+libraries
 flutter_test
+build_runner: any
+hive_ce_generator: any
+
 
 
 
