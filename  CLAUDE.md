@@ -20,6 +20,11 @@ build_runner: any
 hive_ce_generator: any
 
 
+### architecture 
+
+Domain driven design principles
+
+
 
 
 Framework layout and tooling
